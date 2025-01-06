@@ -24,8 +24,7 @@ The dashboard includes several key visualizations:
    - Key formations: 3-4-3, 4-4-2, 4-3-3, 3-5-2
 
 ## Tools Used
-- Tableau Public
-- Data preprocessing in CSV format
+- Tableau Public or Tableau Desktop if u have a license
 
 ## Filters
 - Date range: 8/11/2023 - 5/19/2024
